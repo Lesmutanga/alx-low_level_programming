@@ -6,7 +6,9 @@
  * Return: Always 0 (success)
  *
  */
+
 int main(void)
+
 {
 	int num = '0';
 
